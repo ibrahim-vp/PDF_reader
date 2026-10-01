@@ -1,0 +1,6 @@
+{
+  "name": "PDF Reader & Editor",
+  "description": "تطبيق لعرض وتعديل ملفات الـ PDF بدون إعلانات مع دعم الفتح المباشر من واتساب وأدوات التعليق والتدوير والحفظ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
